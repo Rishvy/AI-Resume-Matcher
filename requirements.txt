@@ -1,0 +1,13 @@
+openai
+python-docx
+PyMuPDF
+sentence-transformers
+streamlit
+sentence-transformers
+requests
+python-docx
+PyMuPDF
+streamlit
+pdfplumber
+docx2txt
+faiss-cpu
